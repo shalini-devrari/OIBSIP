@@ -19,8 +19,11 @@ FEATURES
 HOW TO RUN
 
 -> Ensure you have Java Development Kit (JDK) installed on your system.
+
 -> Open the project in your favorite Java IDE (e.g., Visual Studio Code, Eclipse, IntelliJ).
+
 -> Locate and run the NumberGuessingGame.java file.
+
 -> The game window will appear, and you can start playing by following the on-screen instructions.
 
 CUSTOMIZE THE GAME
